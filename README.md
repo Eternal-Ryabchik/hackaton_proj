@@ -72,7 +72,7 @@ docker compose ps
 ```
 
 ### **4. Доступ к приложению**
-- **Frontend:** http://localhost:3000
+- **Frontend:** http://localhost:5132
 - **API Docs:** http://localhost:8000/docs
 - **Health Check:** http://localhost:8000/health
 
