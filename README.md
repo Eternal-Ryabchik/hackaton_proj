@@ -173,11 +173,7 @@ docker compose up -d postgres redis clickhouse chroma
 2. Создайте feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit изменения (`git commit -m 'Add amazing feature'`)
 4. Push в branch (`git push origin feature/amazing-feature`)
-5. Откройте Pull Request
-
-## 📄 **Лицензия**
-
-Этот проект создан для хакатона и доступен под лицензией MIT.
+5. Откройте Pull request
 
 ## 👥 **Команда**
 
@@ -185,7 +181,3 @@ docker compose up -d postgres redis clickhouse chroma
 - **Frontend:** React, TypeScript, Data Visualization
 - **AI/ML:** Semantic Understanding, Pipeline Generation
 - **DevOps:** Docker, Containerization, CI/CD
-
----
-
-**DataEngineer AI** - Будущее интеллектуальной обработки данных уже здесь! 🚀
